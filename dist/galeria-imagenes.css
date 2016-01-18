@@ -1,0 +1,17 @@
+.galeria-view {
+  background-color: orange;
+  overflow: hidden;
+  width: 69%;
+  float: left;
+}
+.galeria-panel-lateral {
+  background-color: #67DB5D;
+  width: 29%;
+  float: right;
+}
+.img-loading {
+  display: none;
+}
+.img-thumbnail {
+  width: 33.3%;
+}

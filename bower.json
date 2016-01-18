@@ -1,0 +1,27 @@
+{
+  "name": "galeria-imagenes",
+  "authors": [
+    "RickySSD <ricky6982@gmail.com>"
+  ],
+  "description": "galeria de imagenes con panel selector paginado",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "galeria",
+    "imagenes"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.0",
+    "angular": "~1.4.8",
+    "angularUtils-pagination": "angular-utils-pagination#~0.9.4"
+  }
+}
